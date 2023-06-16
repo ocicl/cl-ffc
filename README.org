@@ -4,6 +4,6 @@ General purpose File Function Cache utility.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-ffc.git |
-| commit  | b4cb6f0                                   |
+| commit  | cc06a9b                                   |
 | systems | cl-ffc                                    |
 |---------+-------------------------------------------|
